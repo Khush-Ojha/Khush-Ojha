@@ -26,9 +26,9 @@ This marks the start of my path to becoming a **Job-ready Web Developer by the e
 **Key Milestones:**
 - [ ] 🌐 Build my Portfolio Website
 - [ ] 📚 Complete DSA Roadmap (Leetcode / Codeforces grind)
-- [ ] ⚡ Create a JS Projects Repo (50+ mini-projects)
+- [ ] ⚡ Create a JS Projects Repo 
 - [ ] 🤖 AI/ML Mini-Project (Fire Detection / NLP)
-- [ ] 💼 Internship ready by mid-2025
+
 
 </td>
 <td valign="top" width="35%">
@@ -44,10 +44,7 @@ Python
 
 <br>
 
-### DSA
----
-Leetcode <br>
-Codeforces
+
 
 </td>
 </tr>
