@@ -1,5 +1,5 @@
 <div align="right">
-Want to connect? <a href="https://linkedin.com/in/YOUR_LINKEDIN">Here's my LinkedIn</a>
+Want to connect? <a href="https://www.linkedin.com/in/khush-ojha/">Here's my LinkedIn</a>
 </div>
 
 <h1>
