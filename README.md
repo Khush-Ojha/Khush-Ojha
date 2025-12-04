@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khush</h1>
 <h3 align="center">Go Developer • Full Stack Developer</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,linkedin,css,wasm)](https://skillicons.dev)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khush-ojha&label=Profile%20views&color=0e75b6&style=flat" alt="khush-ojha" /> </p>
 
