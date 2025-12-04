@@ -12,5 +12,5 @@
 
 ---
 
-- ⚙️ I use: `.go`, `.ts`, `.js`, `.html`, `.css`
+- ⚙️ I use: `.go`, `.ts`
   
