@@ -3,4 +3,4 @@
 
 #### A Full-Stack and a Go Developer
 
-- ⚙️ I use daily: `.go`, `.ts`, `.js`, `.html`, `.css`
+- ⚙️ I use: `.go`, `.ts`, `.js`, `.html`, `.css`
