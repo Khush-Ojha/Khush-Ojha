@@ -13,4 +13,5 @@
 ---
 
 - ⚙️ I use: `.go`, `.ts`
-- 🌐 Currently learning **Web3**: Solidity, smart contracts & dApps
+- 🌐 Currently learning **Web3 on Solana**: Rust programs, on‑chain logic & dApps
+
