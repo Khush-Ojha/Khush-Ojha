@@ -13,4 +13,4 @@
 ---
 
 - ⚙️ I use: `.go`, `.ts`
-  
+- 🌐 Currently learning **Web3**: Solidity, smart contracts & dApps
