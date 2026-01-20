@@ -13,5 +13,5 @@
 ---
 
 - ⚙️ I use: `.go`, `.ts`
-- 🌐 Currently exploring **Web3 on Solana**: Rust programs, on‑chain logic & dApps
+- 🌐 Currently exploring **Web3 on Solana** alongside backend development
 
